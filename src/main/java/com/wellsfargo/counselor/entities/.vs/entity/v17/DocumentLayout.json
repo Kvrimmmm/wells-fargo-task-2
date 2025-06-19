@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ATG\\Desktop\\WELLS FARGO\\wells-fargo-task-2\\src\\main\\java\\com\\wellsfargo\\counselor\\entity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ATG\\Desktop\\WELLS FARGO\\wells-fargo-task-2\\src\\main\\java\\com\\wellsfargo\\counselor\\entity\\Security.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Security.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ATG\\Desktop\\WELLS FARGO\\wells-fargo-task-2\\src\\main\\java\\com\\wellsfargo\\counselor\\entity\\Portfolio.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Portfolio.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ATG\\Desktop\\WELLS FARGO\\wells-fargo-task-2\\src\\main\\java\\com\\wellsfargo\\counselor\\entity\\Client.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Client.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Security.java",
+              "DocumentMoniker": "C:\\Users\\ATG\\Desktop\\WELLS FARGO\\wells-fargo-task-2\\src\\main\\java\\com\\wellsfargo\\counselor\\entity\\Security.java",
+              "RelativeDocumentMoniker": "Security.java",
+              "ToolTip": "C:\\Users\\ATG\\Desktop\\WELLS FARGO\\wells-fargo-task-2\\src\\main\\java\\com\\wellsfargo\\counselor\\entity\\Security.java",
+              "RelativeToolTip": "Security.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-19T12:07:16.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Portfolio.java",
+              "DocumentMoniker": "C:\\Users\\ATG\\Desktop\\WELLS FARGO\\wells-fargo-task-2\\src\\main\\java\\com\\wellsfargo\\counselor\\entity\\Portfolio.java",
+              "RelativeDocumentMoniker": "Portfolio.java",
+              "ToolTip": "C:\\Users\\ATG\\Desktop\\WELLS FARGO\\wells-fargo-task-2\\src\\main\\java\\com\\wellsfargo\\counselor\\entity\\Portfolio.java",
+              "RelativeToolTip": "Portfolio.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-19T11:47:54.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.java",
+              "DocumentMoniker": "C:\\Users\\ATG\\Desktop\\WELLS FARGO\\wells-fargo-task-2\\src\\main\\java\\com\\wellsfargo\\counselor\\entity\\Client.java",
+              "RelativeDocumentMoniker": "Client.java",
+              "ToolTip": "C:\\Users\\ATG\\Desktop\\WELLS FARGO\\wells-fargo-task-2\\src\\main\\java\\com\\wellsfargo\\counselor\\entity\\Client.java",
+              "RelativeToolTip": "Client.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-19T11:41:39.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
