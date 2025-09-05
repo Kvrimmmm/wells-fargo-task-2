@@ -62,8 +62,8 @@ Enhance UI for better interaction
 👩‍💻 Author
 Karim Khaled Ismail Ahmed
 
-GitHub: Kvrimmmm
-LinkedIn: [https://www.linkedin.com/in/karim-khaled-b17170329/]
+GitHub: [Kvrimmmmhttps://github.com/Kvrimmmm](https://github.com/Kvrimmmm)
+LinkedIn: [Karim Khaled]https://www.linkedin.com/in/karim-khaled-b17170329/
 
 📜 Credits
 Original starter template by Wells Fargo Software Development Forage
