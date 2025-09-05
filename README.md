@@ -28,10 +28,21 @@ JUnit (for unit testing)
 ```bash
 git clone https://github.com/Kvrimmmm/wells-fargo-task-2.git
 cd wells-fargo-task-2
+2️⃣ Build the project
 
+bash
+Copy code
 ./mvnw clean install
+3️⃣ Run the project
 
+bash
+Copy code
 ./mvnw exec:java -Dexec.mainClass="src.Main"
+markdown
+```
+
+
+
 📊 Features
 
 Reads input files (text, CSV, or JSON)
@@ -56,3 +67,4 @@ LinkedIn: [https://www.linkedin.com/in/karim-khaled-b17170329/]
 
 📜 Credits
 Original starter template by Wells Fargo Software Development Forage
+
